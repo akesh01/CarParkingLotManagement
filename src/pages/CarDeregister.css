@@ -1,0 +1,20 @@
+.payment  {
+    
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+    
+}
+.HomePageBtn {
+    width: 80px;
+    height: 40px;
+    border-radius: 10px;
+
+}
+.btn {
+    display: flex;
+    justify-content:center;
+    padding: 5px;
+    margin: 5px;
+    
+}
